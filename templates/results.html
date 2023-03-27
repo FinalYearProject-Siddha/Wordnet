@@ -1,0 +1,11 @@
+{% extends "base.html" %} 
+{% block content %}
+    <div class = "heading">
+        <div>
+            <h3 class = "term-phrase">{{ term }}</h3>
+        </div>
+        <div class = "disp-results">
+            <p>{{ show|safe }}</p>
+        </div>
+    </div>
+{% endblock %}

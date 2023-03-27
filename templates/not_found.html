@@ -1,0 +1,11 @@
+{% extends "base.html" %} 
+{% block content %}
+    <div class = "heading">
+        <div class = "not-found-result">
+            <h4>
+                {{ show|safe }}
+            </h4>
+            <button type="button" class="btn not-found-button btn-outline-dark" onclick="window.location.href='{{ url_for( 'home') }}';">Go Back</button>
+        </div>
+    </div>
+{% endblock %}

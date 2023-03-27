@@ -1,0 +1,53 @@
+.inp-form {
+    width: 80%;
+    margin:0 auto;
+}
+
+.innercontent {
+    margin:0 auto;
+    width: 40%;
+    text-align: center;
+}
+
+.heading {
+    margin-top: 5%;
+}
+
+.tabbed-menu {
+    margin-top: 10%;
+}
+
+.tab-content {
+    margin-top: 10%;
+}
+
+.term-phrase {
+    margin-top: 10%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.not-found-result {
+    margin-top: 20%;
+}
+
+.not-found-button  {
+    margin-top: 10%;
+}
+
+.alert {
+    margin-top: 10%;
+}
+
+.footer-node {
+    position:absolute;
+    bottom:0;
+    height:5%;   
+    text-align: center;
+}
+
+.content-written {
+    margin-top: 10%;
+}

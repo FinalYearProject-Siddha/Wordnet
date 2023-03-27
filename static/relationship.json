@@ -1,0 +1,395 @@
+{
+   "கை நடுக்கம்": {
+      "Category": "disease/condition",
+      "Similar Diseases": ["கால் நடுக்கம்"],
+      "Cure: Medicinal Plants": ["அக்ரூட்"],
+      "Cure: Other plants/ingredients": "-"
+   },
+   "கால் நடுக்கம்": {
+      "Category": "disease/condition",
+      "Similar Diseases": ["கை நடுக்கம்"],
+      "Cure: Medicinal Plants": ["அக்ரூட்"],
+      "Cure: Other plants/ingredients": "-"
+   },
+   "பார்வை பிரகாசம்": {
+      "Category": "disease/condition",
+      "Similar Diseases": ["கண் பிரகாசம்"],
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி பூ"]
+   },
+   "கண் பிரகாசம்": {
+      "Category": "disease/condition",
+      "Similar Diseases": ["பார்வை பிரகாசம்"],
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி பூ"]
+   },
+   "காக்காய் வலிப்பு": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": ["அக்ரகாரம்"],
+      "Cure: Other plants/ingredients": ["வல்லாரை"]
+   },
+   "அக்ரகாரம்": {
+      "Category": "medicinal plant",
+      "Supporting Ingredients": [
+         "ஆடாதொடசம்",
+         "நிலவேம்பு",
+         "அதிமதுரம்",
+         "கரிசலாங்கண்ணி",
+         "முட்டை",
+         "நாட்டுக்கோழி",
+         "வல்லாரை",
+         "மூன்றை"
+      ],
+      "Diseases Cured": ["சதை வளர்ச்சி", "காக்காய் வலிப்பு"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "வல்லாரை": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": ["காக்காய் வலிப்பு"],
+      "By-Products": ["சாறு"],
+      "Forms of the plant": "-",
+      "Similar Plants": ["அக்ரகாரம்"]
+   },
+   "முட்டை": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": "-",
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "நாட்டுக்கோழி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": "-",
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "மூன்றை": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": "-",
+      "By-Products": ["பொடி"],
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "அதிமதுரம்": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": "-",
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "கரிசலாங்கண்ணி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": "-",
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "சதை வளர்ச்சி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": ["அக்ரகாரம்"],
+      "Cure: Other plants/ingredients": ["ஆடாதொடசம்", "நிலவேம்பு"]
+   },
+   "ஆடாதொடசம்": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": ["சதை வளர்ச்சி"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["நிலவேம்பு", "அக்ரகாரம்"]
+   },
+   "நிலவேம்பு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரகாரம்"],
+      "Diseases Cured": ["சதை வளர்ச்சி"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["ஆடாதொடசம்", "அக்ரகாரம்"]
+   },
+   "இளைத்த உடல்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அக்ரூட் பருப்பு"]
+   },
+   "அக்ரூட் பருப்பு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": [
+         "தோல் நோய்கள்",
+         "ஆண்மைக் குறைவு",
+         "இளைத்த உடல்",
+         "தாது விருத்தி"
+      ],
+      "By-Products": "-",
+      "Forms of the plant": ["அக்ரூட்"],
+      "Similar Plants": "-"
+   },
+   "அக்ரூட்": {
+      "Category": "medicinal plant",
+      "Supporting Ingredients": ["மில்லி"],
+      "Diseases Cured": [
+         "கை நடுக்கம்",
+         "தளர்ச்சி நடுக்கம்",
+         "கால் நடுக்கம்",
+         "மலப் புழுக்கள்",
+         "வேதனை வலி"
+      ],
+      "By-Products": "-",
+      "Forms of the plant": ["அக்ரூட் பருப்பு"],
+      "Similar Plants": "-"
+   },
+   "தளர்ச்சி நடுக்கம்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": ["அக்ரூட்"],
+      "Cure: Other plants/ingredients": "-"
+   },
+   "ஆண்மைக் குறைவு": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அக்ரூட் பருப்பு", "சாலாமிசரி"]
+   },
+   "சாலாமிசரி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["ஆண்மைக் குறைவு"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["அக்ரூட் பருப்பு"]
+   },
+   "தோல் நோய்கள்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": [
+         "பிஸ்தா பருப்பு",
+         "அக்ரூட் பருப்பு",
+         "பாதாம் பருப்பு",
+         "முந்திரி பருப்பு",
+         "உளுந்து"
+      ]
+   },
+   "பிஸ்தா பருப்பு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["தோல் நோய்கள்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": [
+         "பாதாம் பருப்பு",
+         "முந்திரி பருப்பு",
+         "அக்ரூட் பருப்பு",
+         "உளுந்து"
+      ]
+   },
+   "பாதாம் பருப்பு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["தோல் நோய்கள்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": [
+         "பிஸ்தா பருப்பு",
+         "முந்திரி பருப்பு",
+         "அக்ரூட் பருப்பு",
+         "உளுந்து"
+      ]
+   },
+   "முந்திரி பருப்பு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["தோல் நோய்கள்", "தாது விருத்தி"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["அக்ரூட் பருப்பு"]
+   },
+   "உளுந்து": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["தோல் நோய்கள்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": [
+         "பிஸ்தா பருப்பு",
+         "முந்திரி பருப்பு",
+         "அக்ரூட் பருப்பு",
+         "பாதாம் பருப்பு"
+      ]
+   },
+   "உடல்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["பேரீச்சம்பழம்"]
+   },
+   "பேரீச்சம்பழம்": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["உடல்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": "-"
+   },
+   "தாது விருத்தி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": [
+         "முந்திரி பருப்பு",
+         "அக்ரூட் பருப்பு",
+         "இரண்டு"
+      ]
+   },
+   "இரண்டு": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["தாது விருத்தி"],
+      "By-Products": ["பொடி"],
+      "Forms of the plant": "-",
+      "Similar Plants": ["முந்திரி பருப்பு", "அக்ரூட் பருப்பு"]
+   },
+   "மலப் புழுக்கள்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": ["அக்ரூட்"],
+      "Cure: Other plants/ingredients": ["மில்லி"]
+   },
+   "மில்லி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": ["அக்ரூட்"],
+      "Diseases Cured": ["மலப் புழுக்கள்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["அக்ரூட்"]
+   },
+   "வேதனை வலி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": ["அக்ரூட்"],
+      "Cure: Other plants/ingredients": "-"
+   },
+   "ரத்தக்கொதிப்பு": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி"]
+   },
+   "அகத்தி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": [
+         "புண்",
+         "வாய்ப்புண்",
+         "வயிற்று வலி",
+         "ரத்தக்கொதிப்பு",
+         "வாந்தி",
+         "குடல் புண்"
+      ],
+      "By-Products": "-",
+      "Forms of the plant": ["அகத்தி பூ", "அகத்திக் கீரை"],
+      "Similar Plants": "-"
+   },
+   "புண்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி"]
+   },
+   "குடல் புண்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி"]
+   },
+   "வயிற்று வலி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி"]
+   },
+   "வாய்ப்புண்": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி", "வெங்காயம்", "சின்ன"]
+   },
+   "நெஞ்சு வலி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகம்தி"]
+   },
+   "அகம்தி": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["நெஞ்சு வலி"],
+      "By-Products": "-",
+      "Forms of the plant": ["அகம்து"],
+      "Similar Plants": "-"
+   },
+   "வெங்காயம்": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["வாய்ப்புண்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["அகத்தி", "சின்ன"]
+   },
+   "சின்ன": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["வாய்ப்புண்"],
+      "By-Products": "-",
+      "Forms of the plant": "-",
+      "Similar Plants": ["அகத்தி", "வெங்காயம்"]
+   },
+   "பேதி மலேரியா": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகம்து"]
+   },
+   "அகம்து": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["பேதி மலேரியா"],
+      "By-Products": "-",
+      "Forms of the plant": ["அகம்தி"],
+      "Similar Plants": "-"
+   },
+   "அகத்தி பூ": {
+      "Category": "ingredient/plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": ["கண் பிரகாசம்", "பார்வை பிரகாசம்"],
+      "By-Products": "-",
+      "Forms of the plant": ["அகத்தி", "அகத்திக் கீரை"],
+      "Similar Plants": "-"
+   },
+   "வாந்தி": {
+      "Category": "disease/condition",
+      "Similar Diseases": "-",
+      "Cure: Medicinal Plants": "-",
+      "Cure: Other plants/ingredients": ["அகத்தி"]
+   },
+   "அகத்திக் கீரை": {
+      "Category": "medicinal plant",
+      "Supporting Ingredients": "-",
+      "Diseases Cured": "-",
+      "By-Products": "-",
+      "Forms of the plant": ["அகத்தி பூ", "அகத்தி"],
+      "Similar Plants": "-"
+   },
+   "திப்பிலி": { "By-Products": ["பொடி"] }
+}
