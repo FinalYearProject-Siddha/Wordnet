@@ -1,3 +1,2 @@
 .vercel
-__pycache__/
-vercel.json
+__pycache__
