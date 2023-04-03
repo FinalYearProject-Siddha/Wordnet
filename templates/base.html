@@ -18,25 +18,27 @@
         <script type="text/javascript" src="http://vaani.neechalkaran.com/Scripts/google_jsapi.js"></script>
 
         <script type="text/javascript">
-            google.load("elements", "1", {
-                packages: "transliteration"
-            });
-            function onLoad() {
-                var options = {
-                    sourceLanguage: 'en',
-                    destinationLanguage: ['ta'],
-                    transliterationEnabled: true
-                };
-                var control =
-                    new google.elements.transliteration.TransliterationControl(options);
-                var ids = ["exampleInputEnglish"];
-                control.makeTransliteratable(ids);
+            function transliterate() {
+                google.load("elements", "1", {
+                    packages: "transliteration"
+                });
+                function onLoad() {
+                    var options = {
+                        sourceLanguage: 'en',
+                        destinationLanguage: ['ta'],
+                        transliterationEnabled: true
+                    };
+                    var control =
+                        new google.elements.transliteration.TransliterationControl(options);
+                    var ids = ["exampleInputEnglish"];
+                    control.makeTransliteratable(ids);
+                }
+                google.setOnLoadCallback(onLoad);
             }
-            google.setOnLoadCallback(onLoad);
         </script>
 
     </head>
-    <body class="innercontent">
+    <body class="innercontent" onload="transliterate()">
 
         <div class = "heading">
             <h1>Siddha Wordnet</h1>
