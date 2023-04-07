@@ -6,6 +6,5 @@
             "use": "@vercel/python"
         }
     ],
-    "rewrites": [{ "source": "/(.*)", "destination": "/app.py" },
-                 { "source": "//vaani.neechalkaran.com/Scripts/google_jsapi.js", "destination": "http://vaani.neechalkaran.com/Scripts/google_jsapi.js" }] 
+    "rewrites": [{ "source": "/(.*)", "destination": "/app.py" }] 
 }
