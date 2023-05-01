@@ -9,9 +9,9 @@
 3. Other package requirements are found in **requirements.txt**.
 
 ### COLAB CODE
-Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. 
+Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. \
 Step 1
-Navigate to colab branch as shown
+Navigate to colab branch as shown \\
 ![Branch](branch.png)
 
 ### WORDNET FLASK WEBAPP
@@ -27,6 +27,6 @@ Navigate to the **Wordnet** folder and install required packages using \
 `pip install -r requirements.txt`.
 
 Step 3
-Run `python app.py` and open `http://localhost:5000` on any browser 
+Run `python app.py` and open [localhost](http://localhost:5000) on any browser 
 
 Alternatively, use the [Hosted Webapp](https://wordnet.vercel.app) 
