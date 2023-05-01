@@ -1,4 +1,4 @@
-# TAMIL WORDNET FOR SIDDHA MEDICINE
+<center># TAMIL WORDNET FOR SIDDHA MEDICINE</center>
 
 ## DATASET
 200 மூலிகைகள்; 2001 சித்த மருத்துவக்  குறிப்புகள் - [Dataset Link](https://drive.google.com/file/d/1J5jMcgrMMK9qSGoCRxL9TBuf9xXQ5YYz/view?usp=sharing) 
@@ -9,7 +9,7 @@
 3. Other package requirements are found in **requirements.txt**.
 
 ### COLAB CODE
-Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. \
+Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. 
 1. Navigate to colab branch as shown \
 ![Branch](branch.png)
 
