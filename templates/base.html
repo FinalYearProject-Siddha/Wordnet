@@ -33,6 +33,7 @@
       <script type="text/javascript" src="static/script.js"></script>
 
       <script type="text/javascript">
+         // loads the google transliteration API and transliterates every word in the input.
          google.load("elements", "1", {
             packages: "transliteration",
          });
@@ -57,7 +58,6 @@
       <div class="heading">
          <h3>Siddha Wordnet</h3>
       </div>
-
       {% block content %}{% endblock %}
    </body>
 </html>
