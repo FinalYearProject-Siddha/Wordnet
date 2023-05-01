@@ -1,4 +1,4 @@
-<center># TAMIL WORDNET FOR SIDDHA MEDICINE</center>
+# TAMIL WORDNET FOR SIDDHA MEDICINE
 
 ## DATASET
 200 மூலிகைகள்; 2001 சித்த மருத்துவக்  குறிப்புகள் - [Dataset Link](https://drive.google.com/file/d/1J5jMcgrMMK9qSGoCRxL9TBuf9xXQ5YYz/view?usp=sharing) 
