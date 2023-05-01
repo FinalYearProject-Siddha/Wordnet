@@ -11,7 +11,7 @@
 ### COLAB CODE
 Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. \
 Step 1
-Navigate to colab branch as shown \\
+Navigate to colab branch as shown \
 ![Branch](branch.png)
 
 ### WORDNET FLASK WEBAPP
