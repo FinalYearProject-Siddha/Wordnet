@@ -10,23 +10,19 @@
 
 ### COLAB CODE
 Branch `colab` contains colab code for OCR, Preprocessing, Sentence Annotation, Rules formulation, Category Tagging and Relationship Mapping. \
-Step 1
-Navigate to colab branch as shown \
+1. Navigate to colab branch as shown \
 ![Branch](branch.png)
 
 ### WORDNET FLASK WEBAPP
 Branch `main` contains code for the Flask app.
 
-Step 1
-Clone the repository from the github link using \
+1. Clone the repository from the github link using \
 `git clone https://github.com/FinalYearProject-Siddha/Wordnet` or download as zip as shown \
 ![Downloadzip](zipcode.png)
 
-Step 2
-Navigate to the **Wordnet** folder and install required packages using \
+2. Navigate to the **Wordnet** folder and install required packages using \
 `pip install -r requirements.txt`.
 
-Step 3
-Run `python app.py` and open [localhost](http://localhost:5000) on any browser 
+3. Run `python app.py` and open [localhost](http://localhost:5000) on any browser 
 
-Alternatively, use the [Hosted Webapp](https://wordnet.vercel.app) 
+4. Alternatively, use the [Hosted Webapp](https://wordnet.vercel.app) 
